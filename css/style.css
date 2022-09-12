@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgba(215, 218, 198, 0.712);
+    color: antiquewhite;
+    background-image: url(../img/);
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repet;
+}
+h1
+{
+    color: rgb(219, 147, 40 );
+}
+.mybg
+{
+    background-color: rgba(7, 8, 7, 0.411);
+}
